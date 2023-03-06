@@ -15,7 +15,7 @@ This Tic-Tac-Toe game has the following features:
 
 ## How to Play
 To play the Tic-Tac-Toe game, follow these steps:
-1. Access the application by following this link: https://replit.com/@yourusername/tictactoe.
+1. Access the application: copy and paste code into your favorite IDE.
 2. Choose whether you want to play against another player or the computer.
 3. If you're playing against another player, take turns placing your marks on the board until one player wins or the game ends in a tie.
 4. If you're playing against the computer, place your mark on the board and wait for the computer to make its move.
